@@ -1,0 +1,130 @@
+{
+  "sheetsById": {
+    "default": {
+      "staticOverrides": {
+        "byObject": {
+          "Badge": {
+            "scale": 1,
+            "opacity": 0.5
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Badge": {
+            "trackData": {
+              "O2860hdrOo": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Badge:[\"scale\"]",
+                "keyframes": [
+                  {
+                    "id": "Hqig7SGCCJ",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.68,
+                      -0.55
+                    ],
+                    "type": "bezier",
+                    "value": 0.5
+                  },
+                  {
+                    "id": "-wvM4WEeKt",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.265,
+                      1.55,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.2
+                  }
+                ]
+              },
+              "gawuiVGpor": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Badge:[\"opacity\"]",
+                "keyframes": [
+                  {
+                    "id": "j4tcaytNtk",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  },
+                  {
+                    "id": "BO4Pj6d-xO",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1
+                  }
+                ]
+              },
+              "snYN0I58UC": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Badge:[\"rotation\"]",
+                "keyframes": [
+                  {
+                    "id": "s4zdiFZy2t",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  },
+                  {
+                    "id": "NhbUlj4cjc",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"scale\"]": "O2860hdrOo",
+              "[\"opacity\"]": "gawuiVGpor",
+              "[\"rotation\"]": "snYN0I58UC"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "AiajJ0HdEZQ-Zg5k"
+  ]
+}
